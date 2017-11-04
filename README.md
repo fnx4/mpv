@@ -1,5 +1,5 @@
-SETUP
------
+CFG SETUP
+---------
 
 Paste:
 
